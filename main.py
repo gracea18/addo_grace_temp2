@@ -1,5 +1,5 @@
-tempFi = input.temperature(TemperatureUnit.FAHRENHEIT)
-tempF= 50
+tempF = input.temperature(TemperatureUnit.FAHRENHEIT)
+
 while True:
     print("Temperature" + input.temperature(TemperatureUnit.FAHRENHEIT))
     #if tempF > 60:
